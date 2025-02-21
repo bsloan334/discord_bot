@@ -1,2 +1,2 @@
 # discord_bot
-Alert: Kit is bad
+Alert: Kit is really bad
